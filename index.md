@@ -207,8 +207,7 @@ If you have questions or need assistance with the accommodation form please <a h
 <h3>How to Prepare for Lesson Developer Training</h3>
 
 <p>
-Before the training, please <strong>complete our pre-training survey</strong>.
-You will receive a custom link for your event when you receive your connection information.
+Before the training, please <strong><a href="https://forms.gle/sVNht2SuJ7PCm9fs8">complete our pre-training survey</a></strong>.
 </p>
 <p>Before joining the first training session, take a few minutes to think about and note down your answers to the following questions:
 <ol>
